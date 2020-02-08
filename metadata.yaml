@@ -1,0 +1,40 @@
+_repo: The-Recruit_61204
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling
+    - Schelling, George Luther
+    - Schelling, George L.
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+creator:
+  author:
+    agent_name: Walton, Bryce
+    alias: O'Hara, Kenneth
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '33100'
+    url: http://www.gutenberg.org/2009/agents/33100
+    wikipedia: http://en.wikipedia.org/wiki/Bryce_Walton
+description: ''
+gutenberg_issued: '2020-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Executions and executioners -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Teenage boys -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Recruit
+url: http://www.gutenberg.org/ebooks/61204
